@@ -38,7 +38,7 @@ public class StoreFragment extends Fragment {
     private static final String TAG = StoreFragment.class.getSimpleName();
 
     // url to fetch shopping items
-    private static final String URL = "https://api.androidhive.info/json/movies_2017.json";
+    private static final String URL = "http://puntosingular.mx/json/movies 2017.json";
 
     private RecyclerView recyclerView;
     private List<Movie> itemsList;
